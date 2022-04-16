@@ -3,14 +3,14 @@ var turn;
 
 //team1 details
 var team1 = {
-    name: "India",
+    name: "CSK",
     runs: [],
     score:0
 }
 
 //team2 details
 var team2 = {
-    name: "Pakistan",
+    name: "MI",
     runs: [],
     score:0
 }
